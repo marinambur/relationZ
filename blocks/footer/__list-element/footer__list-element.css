@@ -1,3 +1,9 @@
 .footer__list-element {
     margin-top: 5px;
 }
+
+@media (max-width: 500px) {
+    .footer__list-element {
+        margin-top: 25px;
+    }
+}

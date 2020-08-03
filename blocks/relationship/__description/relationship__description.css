@@ -4,3 +4,10 @@
     line-height: 22px;
     color: #73738D;
 }
+
+@media (max-width: 500px) {
+    .relationship__description{
+        text-align: center;
+
+    }
+}

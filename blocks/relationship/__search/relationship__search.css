@@ -2,3 +2,11 @@
     width: 423px;
     height: 41px;
 }
+
+
+@media (max-width: 500px) {
+    .relationship__search {
+        width: 278px;
+        align-self: center;
+    }
+}

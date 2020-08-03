@@ -9,3 +9,10 @@
     margin-top: 17px;
     margin-bottom: 12px;
 }
+
+@media (max-width: 500px) {
+    .header__lang {
+        flex-direction: column;
+
+    }
+}

@@ -2,3 +2,14 @@
     max-width: 429px;
     padding-top: 70px;
 }
+
+@media (max-width: 800px) {
+    .relationship__container {
+        max-width: 629px;
+        padding: 0;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+    }
+}

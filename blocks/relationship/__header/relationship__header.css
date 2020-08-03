@@ -5,3 +5,12 @@
 
     color: #222222;
 }
+
+@media (max-width: 500px) {
+    .relationship__header{
+        text-align: center;
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+}

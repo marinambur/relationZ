@@ -9,6 +9,12 @@
     background:none;
 }
 
-.header__link_active:hover {
-    opacity: 0.7;
+@media (max-width: 500px) {
+    .header__link_active {
+        font-size: 25px;
+        margin-bottom: 0px;
+        width: 218px;
+        margin-top: 20px;
+
+    }
 }
