@@ -1,0 +1,17 @@
+@import url(__header/clients__header.css);
+@import url(__box/clients__box.css);
+@import url(__picture/clients__picture.css);
+@import url(__name/clients__name.css);
+@import url(__pic/clients__pic.css);
+@import url(__pic-container/clients__pic-container.css);
+@import url(__comment/clients__comment.css);
+@import url(__sign/clients__sign.css);
+
+.clients {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 90px auto auto auto;
+    width: 80%;
+}

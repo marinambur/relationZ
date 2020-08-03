@@ -1,0 +1,7 @@
+.relationship__list {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 0px;
+    margin-block-start: 0px;
+    padding-left: 19px;
+}

@@ -1,0 +1,10 @@
+.relationship__input {
+    background: #FFFFFF;
+    border-radius: 33.9597px;
+    height: 41.58px;
+    border: none; /* Убираем рамку */
+    outline: none; /* Убираем свечение в Chrome и Safari */
+    -webkit-appearance: none;
+    box-shadow: 0 0 17px rgba(0, 0, 0, 0.08);
+    width: 297px;
+}

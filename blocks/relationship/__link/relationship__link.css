@@ -1,0 +1,7 @@
+.relationship__link {
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 17px;
+    text-decoration: none;
+    list-style-image: url(../../../images/tick.svg);
+}
