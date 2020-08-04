@@ -3,12 +3,14 @@
 .clients__elem_boy {
     z-index: -1;
     position: absolute;
-    /* width: 76px; */
-    /* height: auto; */
+    width: 107px;
+    height: 146px;
     left: 133.32px;
     top: 808.03px;
     animation: clients__elem_boy 5s 1 ease;
     border-radius: 76px;
+    background-image: url(../../../images/boy3.png);
+    background-repeat: no-repeat;
 }
 
 

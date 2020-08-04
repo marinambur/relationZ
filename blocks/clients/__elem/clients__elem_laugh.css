@@ -3,10 +3,12 @@
     z-index: -1;
     position: absolute;
     width: 61.44px;
-    height: auto;
+    height: 88.22px;
     left: 0;
     top: 1041.59px;
     animation: clients__elem_laugh 5s 1 ease;
+    background-image: url(../../../images/laugh.png);
+    background-repeat: no-repeat;
 }
 
 @keyframes clients__elem_laugh {

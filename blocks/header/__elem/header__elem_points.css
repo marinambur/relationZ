@@ -5,4 +5,6 @@
     bottom: 86.74%;
     position: absolute;
     z-index: -1;
+    background-image: url(../../../images/Group.png);
+    background-repeat: no-repeat;
 }

@@ -7,6 +7,8 @@
     left: 830px;
     top: 518px;
     animation: header__elem_orange-big 5s 1 ease;
+    background-image: url(../../../images/3.png);
+    background-repeat: no-repeat;
 }
 
 
