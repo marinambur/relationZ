@@ -1,0 +1,29 @@
+
+
+.clients__elem_boy {
+    z-index: -1;
+    position: absolute;
+    /* width: 76px; */
+    /* height: auto; */
+    left: 133.32px;
+    top: 808.03px;
+    animation: clients__elem_boy 5s 1 ease;
+    border-radius: 76px;
+}
+
+
+@keyframes clients__elem_boy {
+    0% {
+        left: 149.32px;
+        top: 808.03px;
+    }
+    50% {
+        left: 120.32px;
+        top: 808.03px;
+    }
+
+    100% {
+        left: 149.32px;
+        top: 808.03px;
+    }
+}

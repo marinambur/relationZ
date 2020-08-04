@@ -1,0 +1,26 @@
+.header__elem_red {
+    position: absolute;
+    height: 45px;
+    width: 68px;
+    right: 499px;
+    top: -24px;
+    z-index: 0;
+    animation: header__elem_red 5s 1 ease;
+
+}
+
+@keyframes header__elem_red {
+  0% {
+    right: 499px;
+    top: -24px;
+  }
+  50% {
+    right: 450px;
+    top: -24px;
+ }
+
+   100% {
+     right: 499px;
+     top: -24px;
+  }
+}

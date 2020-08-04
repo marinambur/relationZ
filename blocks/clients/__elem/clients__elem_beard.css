@@ -1,0 +1,27 @@
+.clients__elem_beard {
+    z-index: -1;
+    position: absolute;
+    width: 81.98px;
+    height: auto;
+    left: 894.36px;
+    top: 1003.47px;
+    animation: clients__elem_beard 5s 1 ease;
+
+}
+
+
+@keyframes clients__elem_beard {
+    0% {
+        left: 894.36px;
+        top: 1003.47px;
+    }
+    50% {
+        left: 894.36px;
+        top: 1003.47px;
+    }
+
+    100% {
+        left: 894.36px;
+        top: 1003.47px;
+    }
+}

@@ -1,0 +1,26 @@
+.header__elem_orange-bighalf {
+    z-index: -1;
+    position: absolute;
+    width: 36px;
+    height: 127px;
+    left: 0;
+    top: 490.99px;
+    animation: header__elem_orange-bighalf 5s 1 ease;
+}
+
+
+@keyframes header__elem_orange-bighalf {
+    0% {
+        left: 0;
+        top: 490.99px;
+    }
+    50% {
+        left: 0;
+        top: 480.99px;
+    }
+
+    100% {
+        left: 0;
+        top: 490.99px;
+    }
+}
