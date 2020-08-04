@@ -5,7 +5,7 @@
     height: 69.58px;
     left: 775.85px;
     top: 782.38px;
-    animation: clients__elem_girl 5s 1 ease;
+    animation: clients__elem_girl 5s infinite;
     background-image: url(../../../images/girl.png);
     background-repeat: no-repeat;
 }

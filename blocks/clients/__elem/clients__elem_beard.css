@@ -5,7 +5,7 @@
     height: 81.98px;
     left: 894.36px;
     top: 1003.47px;
-    animation: clients__elem_beard 5s 1 ease;
+    animation: clients__elem_beard 10s infinite;
     background-image: url(../../../images/beard.png);
     background-repeat: no-repeat;
 
@@ -18,8 +18,8 @@
         top: 1003.47px;
     }
     50% {
-        left: 894.36px;
-        top: 1003.47px;
+        left: 884.36px;
+        top: 1013.47px;
     }
 
     100% {
