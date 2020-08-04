@@ -1,7 +1,9 @@
+
+@import url(__elem/page__elem.css);
 .page {
     padding-top: 24px;
     width: 80%;
-    min-width: 320px;
+    min-width: 250px;
     max-width: 997px;
     font-family: "Gilroy", Arial, sans-serif;
     margin: auto;

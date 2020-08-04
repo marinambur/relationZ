@@ -1,0 +1,27 @@
+.clients__elem_half {
+    z-index: -1;
+    position: absolute;
+    width: auto;
+    height: 80.44px;
+    right: 0;
+    top: 713.54px;
+    animation: clients__elem_half 5s 1 ease;
+
+}
+
+
+@keyframes clients__elem_half {
+    0% {
+        right: 0;
+        top: 716.54px;
+    }
+    50% {
+        right: 0;
+        top: 726.54px;
+    }
+
+    100% {
+        right: 0;
+        top: 716.54px;
+    }
+}

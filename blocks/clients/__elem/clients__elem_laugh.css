@@ -1,0 +1,28 @@
+
+.clients__elem_laugh {
+    z-index: -1;
+    position: absolute;
+    width: 61.44px;
+    height: 88.22px;
+    left: 0;
+    top: 1041.59px;
+    animation: clients__elem_laugh 5s 1 ease;
+    background-image: url(../../../images/laugh.png);
+    background-repeat: no-repeat;
+}
+
+@keyframes clients__elem_laugh {
+    0% {
+        left: 0;
+        top: 1041.59px;
+    }
+    50% {
+        left: 0;
+        top: 1030.59px;
+    }
+
+    100% {
+        left: 0;
+        top: 1041.59px;
+    }
+}

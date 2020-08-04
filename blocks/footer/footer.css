@@ -5,6 +5,7 @@
 @import url(__list-element/footer__list-element.css);
 @import url(__header/footer__header.css);
 @import url(__copyright-header/footer__copyright-header.css);
+@import url(__box/footer__box_circ.css);
 .footer {
     display: flex;
     flex-direction: column;

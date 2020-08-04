@@ -1,0 +1,12 @@
+.clients__blue-points {
+    position: absolute;
+    left: 71.35%;
+    right: 23.95%;
+    top: 161.06%;
+    bottom: 34.48%;
+    z-index: -1;
+    width: 50px;
+    height: 50px;
+    background-image: url(../../../images/blue-points.png);
+    background-repeat: no-repeat;
+}

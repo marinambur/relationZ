@@ -2,12 +2,19 @@
 @import url(../header/__link/header__link.css);
 @import url(../header/__lang/header__lang.css);
 @import url(../header/__link/_active/header__link_active.css);
+@import url(../header/__elem/header__elem_red.css);
+@import url(../header/__elem/header__elem_orange.css);
+@import url(../header/__elem/header__elem_orange-big.css);
+@import url(../header/__elem/header__elem_orange-bighalf.css);
+@import url(../header/__elem/header__elem_points.css);
+
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     max-width: 1184px;
     margin: auto;
+    position: relative;
 }
 
 @media (max-width: 800px) {

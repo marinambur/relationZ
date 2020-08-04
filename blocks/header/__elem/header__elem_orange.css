@@ -1,0 +1,28 @@
+.header__elem_orange {
+    z-index: -1;
+    position: absolute;
+    width: 43.2px;
+    height: 43.2px;
+    left: 642px;
+    top: 120px;
+    animation: header__elem_orange 5s 1 ease;
+    background-image: url(../../../images/2.png);
+    background-repeat: no-repeat;
+
+}
+
+@keyframes header__elem_orange {
+    0% {
+        left: 642px;
+        top: 120px;
+    }
+    50% {
+        left: 645px;
+        top: 125px;
+    }
+
+    100% {
+        left: 642px;
+        top: 120px;
+    }
+}

@@ -1,0 +1,28 @@
+.clients__elem_man {
+    z-index: -1;
+    position: absolute;
+    width: 59.72px;
+    height: 59.72px;
+    left: 59.92px;
+    top: 744.27px;
+    animation: clients__elem_man 5s 1 ease;
+    background-image: url(../../../images/man.png);
+    background-repeat: no-repeat;
+}
+
+
+@keyframes clients__elem_man {
+    0% {
+        left: 59.92px;
+        top: 744.27px;
+    }
+    50% {
+        left: 39.92px;
+        top: 744.27px;
+    }
+
+    100% {
+        left: 59.92px;
+        top: 744.27px;
+    }
+}

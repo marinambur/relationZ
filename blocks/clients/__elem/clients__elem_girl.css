@@ -1,0 +1,34 @@
+.clients__elem_girl {
+    z-index: 5;
+    position: absolute;
+    width: 69.58px;
+    height: 69.58px;
+    left: 775.85px;
+    top: 782.38px;
+    animation: clients__elem_girl 5s 1 ease;
+    background-image: url(../../../images/girl.png);
+    background-repeat: no-repeat;
+}
+
+
+@keyframes clients__elem_girl {
+    0% {
+        left: 775.85px;
+        top: 782.38px;
+    }
+    50% {
+        left: 785.85px;
+        top: 782.38px;
+    }
+
+    100% {
+        left: 775.85px;
+        top: 782.38px;
+    }
+}
+
+@media (min-width: 1100px) {
+    .clients__elem_girl {
+        left: 1000px;
+    }
+}
