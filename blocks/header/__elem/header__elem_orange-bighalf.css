@@ -5,7 +5,7 @@
     height: 127px;
     left: 0;
     top: 490.99px;
-    animation: header__elem_orange-bighalf 5s 1 ease;
+    animation: header__elem_orange-bighalf 3s infinite;
     background-image: url(../../../images/4.png);
     background-repeat: no-repeat;
 }

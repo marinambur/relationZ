@@ -6,7 +6,7 @@
     top: -24px;
     background-repeat: no-repeat;
     z-index: 0;
-    animation: header__elem_red 5s 1 ease;
+    animation: header__elem_red 6s infinite;
     background-image: url(../../../images/1.svg);
 
 }

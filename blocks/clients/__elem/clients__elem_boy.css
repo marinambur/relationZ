@@ -7,7 +7,7 @@
     height: 146px;
     left: 133.32px;
     top: 808.03px;
-    animation: clients__elem_boy 5s 1 ease;
+    animation: clients__elem_boy 5s infinite;
     border-radius: 76px;
     background-image: url(../../../images/boy3.png);
     background-repeat: no-repeat;

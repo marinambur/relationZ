@@ -5,7 +5,7 @@
     height: 43.2px;
     left: 642px;
     top: 120px;
-    animation: header__elem_orange 5s 1 ease;
+    animation: header__elem_orange 3s infinite;
     background-image: url(../../../images/2.png);
     background-repeat: no-repeat;
 

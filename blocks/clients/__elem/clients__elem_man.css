@@ -5,7 +5,7 @@
     height: 59.72px;
     left: 59.92px;
     top: 744.27px;
-    animation: clients__elem_man 5s 1 ease;
+    animation: clients__elem_man 5s infinite;
     background-image: url(../../../images/man.png);
     background-repeat: no-repeat;
 }

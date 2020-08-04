@@ -6,7 +6,7 @@
     height: 88.22px;
     left: 0;
     top: 1041.59px;
-    animation: clients__elem_laugh 5s 1 ease;
+    animation: clients__elem_laugh 5s infinite;
     background-image: url(../../../images/laugh.png);
     background-repeat: no-repeat;
 }
