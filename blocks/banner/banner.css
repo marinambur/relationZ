@@ -1,5 +1,8 @@
 
 @import url(__button/banner__button.css);
+@import url(__header/banner__header.css);
+@import url(__description/banner__description.css);
+@import url(__container/banner__container.css);
 
 .banner {
     display: flex;
