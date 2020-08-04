@@ -2,12 +2,12 @@
     font-weight: bold;
     font-size: 40.1972px;
     line-height: 49px;
-
+    margin-bottom: 10px;
     color: #222222;
 }
 
 @media (max-width: 500px) {
-    .relationship__header{
+    .relationship__header {
         text-align: center;
         font-size: 30px;
         line-height: 30px;

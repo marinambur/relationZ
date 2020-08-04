@@ -4,10 +4,11 @@
 @import url(__copyright/footer__copyright.css);
 @import url(__list-element/footer__list-element.css);
 @import url(__header/footer__header.css);
+@import url(__copyright-header/footer__copyright-header.css);
 .footer {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     margin: auto;
+    max-width: 96%;
 }
