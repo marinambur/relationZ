@@ -6,5 +6,6 @@
 @media (max-width: 500px) {
     .banner__button {
         margin-bottom: 15px;
+        margin-right: 0;
     }
 }
