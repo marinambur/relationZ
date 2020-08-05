@@ -1,0 +1,12 @@
+.wrap {
+    margin: auto;
+    position: relative;
+    width: 998px;
+}
+
+@media (max-width: 995px) {
+    .wrap {
+        width: auto;
+
+    }
+}
