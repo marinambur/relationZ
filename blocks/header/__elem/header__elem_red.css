@@ -2,8 +2,8 @@
     position: absolute;
     height: 45px;
     width: 68px;
-    right: 499px;
-    top: -24px;
+    left: 338.9px;
+    top: 0;
     background-repeat: no-repeat;
     z-index: 0;
     animation: header__elem_red 6s infinite;
@@ -13,16 +13,16 @@
 
 @keyframes header__elem_red {
   0% {
-    right: 499px;
-    top: -24px;
+    left: 338.9px;
+    top: 0;
   }
   50% {
-    right: 450px;
-    top: -24px;
+    right: 430px;
+    top: 0;
  }
 
    100% {
-     right: 499px;
-     top: -24px;
+    left: 338.9px;
+    top: 0;
   }
 }
