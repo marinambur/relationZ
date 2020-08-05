@@ -15,6 +15,7 @@
     max-width: 1184px;
     margin: auto;
     position: relative;
+    width: 99%;
 }
 
 @media (max-width: 800px) {
